@@ -1,0 +1,24 @@
+.projects-section {
+    background-color: cyan;
+    padding: 30px;
+    margin: 20px 0;
+    border: 2px solid yellow;
+    border-radius: 10px;
+}
+
+
+
+.project-container {
+    display: flex;
+    gap: 20px;
+    flex-wrap: wrap;
+}
+
+
+.project-box {
+    background-color: #bbf7d05f;
+    padding: 20px;
+    border: 2px solid #257eeb;
+    border-radius: 8px;
+    flex: 1 1 180px;
+}
