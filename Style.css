@@ -22,3 +22,14 @@
     border-radius: 8px;
     flex: 1 1 180px;
 }
+button{
+    background-color: white;
+    padding: 10px;
+    border: 2px solid white;
+    border-radius: 4px;
+    height: 30px;
+    width: 80px;
+    color: darkblue;
+    font-size: 5px;
+    cursor: pointer;
+}
